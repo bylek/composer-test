@@ -1,0 +1,10 @@
+{
+    "name": "bylek/composer-test",
+    "authors": [
+        {
+            "name": "Pawel Kapala",
+            "email": "bylek77@gmail.com"
+        }
+    ],
+    "require": {}
+}
